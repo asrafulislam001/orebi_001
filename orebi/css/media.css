@@ -1,0 +1,136 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header part strart*/
+.cu-h-btn{
+	display: flex !important;
+    justify-content: flex-end !important;
+}
+.cu-nav2 {
+    display: flex;
+    justify-content: flex-start;
+}
+.cu-nav ul li a {
+    text-align: right;
+    padding-right: 0px !important;
+}
+.cu-nav2 ul li a {
+    padding-right: 25px !important;
+}
+
+/*slider-offer part start*/
+.slider-offer{
+    padding-bottom: 0;
+    padding-bottom: 15px;
+}
+.so-01{
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+/*adds part start*/
+.c-margin{
+    margin-top: 40px;
+}
+.adds-02{
+    margin-top: 20px;
+}
+
+/*product part start*/
+.product-content01{
+    margin-bottom: 25px;
+}
+
+/*=====about page part start=====*/
+.breadcumb {
+    padding: 50px 0;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header part strart*/
+.cu-h-btn{
+	display: flex !important;
+    justify-content: flex-end !important;
+}
+.cu-nav ul li a {
+    text-align: right;
+    padding-right: 0px !important;
+}
+.cu-nav2 ul li a {
+    padding-right: 25px !important;
+}
+
+/*adds part start*/
+.c-margin{
+    margin-top: 60px;
+}
+.adds-02{
+    margin-top: 25px;
+}
+
+/*product part start*/
+.product-content01{
+    margin-bottom: 25px;
+}
+
+/*=====about page part start=====*/
+.breadcumb {
+    padding: 60px 0;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header part strart*/
+.cu-h-btn{
+	display: flex !important;
+    justify-content: flex-end !important;
+}
+.cu-nav ul li a {
+    text-align: right;
+    padding-right: 0px !important;
+}
+.cu-nav2 ul li a {
+    padding-right: 25px !important;
+}
+
+/*adds part start*/
+.c-margin{
+    margin-top: 80px;
+}
+.adds-02{
+    margin-top: 25px;
+}
+
+/*product part start*/
+.product-content01{
+    margin-bottom: 25px;
+}
+
+/*=====about page part start=====*/
+.breadcumb {
+    padding: 80px 0;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+}

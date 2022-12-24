@@ -1,0 +1,24 @@
+/*about heading part start*/
+.about-heading h2{
+font-weight: 400;
+font-size: 25px;
+line-height: 52px;
+color: #262626;
+}
+/*about heading part start*/
+
+/*about-items part start*/
+.about-item h2{
+font-weight: 700;
+font-size: 25px;
+line-height: 36px;
+color: #262626;
+}
+.about-item p{
+  margin-top: 11px;
+  font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+color: #767676;
+}
+/*about-items part end*/
